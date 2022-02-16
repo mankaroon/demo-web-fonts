@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'milkshakeregular';
+    src: url('../fonts/milkshake-webfont.woff2') format('woff2'),
+         url('milkshake-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+h1{
+    font-family: 'milkshakeregular'; 
+    font-size: 2rem;
+}
+
+h2{
+    font-family: 'milkshakeregular'; 
+    font-size: 2rem;
+}
